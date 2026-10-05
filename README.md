@@ -16,4 +16,4 @@ Alternatively, select **Deploy from a branch**, `main`, and `/ (root)` in Pages 
 Edit `index.html` for copy, `styles.css` for appearance, and replace `Janakiraman_Resume.pdf` to update the download. Project descriptions reflect professional contributions, not sole authorship. The device artwork is decorative, not a product screenshot.
 
 ## Appearance
-The theme selector follows the system preference by default, with Light and Dark overrides saved locally. Motion respects the device’s reduced-motion preference.
+The website automatically follows each visitor’s device color preference through CSS, including changes while the page is open. There is no manual override or saved theme preference. Motion respects the device’s reduced-motion preference.
