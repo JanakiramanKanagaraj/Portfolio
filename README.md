@@ -17,3 +17,6 @@ Edit `index.html` for copy, `styles.css` for appearance, and replace `Janakirama
 
 ## Appearance
 The website automatically follows each visitor’s device color preference through CSS, including changes while the page is open. There is no manual override or saved theme preference. Motion respects the device’s reduced-motion preference.
+
+## Website
+https://janakiramankanagaraj.github.io/Portfolio
